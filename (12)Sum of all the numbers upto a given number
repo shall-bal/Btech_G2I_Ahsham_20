@@ -13,7 +13,6 @@ int main(){
         case 0: printf("Please enter a positive number");
         break;
         
-
     }
     return 0;
 }
